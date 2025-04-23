@@ -1,0 +1,115 @@
+html{
+    width:100%;
+}
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+header{
+    text-align: center;
+    
+}
+
+header img{
+    width: 950px;
+    margin-top: 20px;
+    /* border:1px solid black; */
+    margin-top: 50px;
+
+}
+main{
+    text-align: center;
+}
+
+#cashew img,#almond img, #pistachio img,#hazelnut img{
+   width: 400px;
+   margin:8px;
+   /* border: 1px solid black; */
+}
+#walnut img{
+    width:500px;
+    margin:8px;
+}
+
+.nav-bar{
+    background-color: #6F2F16;
+    padding: 20px;
+   
+}
+.nav-bar a{
+    color:#FFEFD5;
+    padding: 10px;
+    font-weight: 800;
+}
+
+.browny{
+    background-color: #6F2F16;
+    color: #FFEFD5;
+}
+
+button{
+    border: none;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: 800;
+    margin: 30px 0px 20px;
+    width: 150px;
+}
+
+.browny button{
+  color: #6F2F16;
+  background-color: #FFEFD5;
+}
+
+span{
+    color:#6F2F16
+}
+section{
+    padding: 20px;
+}
+
+.white-box{
+    color: #6F2F16;
+}
+
+.white-box button{
+    background-color: #6F2F16;
+    color: #FFEFD5;
+}
+
+
+.white-box p, .browny p{
+    text-align: justify;
+}
+
+p{
+    letter-spacing: 1px;
+    line-height: 24px;
+    word-spacing: 2px;
+    width:800px;
+    margin: auto;
+   
+}
+
+h2{
+    font-size: 32px;
+}
+
+h1{
+    font-size: 56px;
+    word-spacing: 6px;
+    letter-spacing: 1px;
+    font-family: "Merienda", cursive;
+}
+
+header p{
+    /* border:1px solid black; */
+    /* margin-top: -10px; */
+    margin-bottom: 20px;
+}
+
+footer h5{
+   text-align: right;
+   padding: 5px;
+}
